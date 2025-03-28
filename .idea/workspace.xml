@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a84880df-bc39-4cae-930a-cd0e828079c8" name="Changes" comment="Додавання requirements.txt">
-      <change afterPath="$PROJECT_DIR$/.idea/WordSentenceCounter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a84880df-bc39-4cae-930a-cd0e828079c8" name="Changes" comment="venv">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/python-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/python-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Malatsion"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Malatsion/WordSentenceCounter",
@@ -75,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743148309346</updated>
-      <workItem from="1743148310403" duration="600000" />
+      <workItem from="1743148310403" duration="805000" />
     </task>
     <task id="LOCAL-00001" summary="Створення репозиторію та додавання .gitignore">
       <option name="closed" value="true" />
@@ -125,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743148843251</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="venv">
+      <option name="closed" value="true" />
+      <created>1743149055116</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743149055116</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +149,7 @@
     <MESSAGE value="Написання unit-тестів" />
     <MESSAGE value="Налаштування GitHub Actions (.github/workflows/python-ci.yml)" />
     <MESSAGE value="Додавання requirements.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Додавання requirements.txt" />
+    <MESSAGE value="venv" />
+    <option name="LAST_COMMIT_MESSAGE" value="venv" />
   </component>
 </project>
