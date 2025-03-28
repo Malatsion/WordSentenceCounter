@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a84880df-bc39-4cae-930a-cd0e828079c8" name="Changes" comment="requirements.txt fix" />
+    <list default="true" id="a84880df-bc39-4cae-930a-cd0e828079c8" name="Changes" comment="fix pytest-html==3.2.0">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/python-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/python-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743148309346</updated>
-      <workItem from="1743148310403" duration="1145000" />
+      <workItem from="1743148310403" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="Створення репозиторію та додавання .gitignore">
       <option name="closed" value="true" />
@@ -150,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743149264424</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix pytest-html==3.2.0">
+      <option name="closed" value="true" />
+      <created>1743149559713</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743149559713</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +188,10 @@
     <MESSAGE value="venv" />
     <MESSAGE value="python-version fix" />
     <MESSAGE value="requirements.txt fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="requirements.txt fix" />
+    <MESSAGE value="fix pytest-html==3.2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix pytest-html==3.2.0" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WordSentenceCounter$test_counter.coverage" NAME="test_counter Coverage Results" MODIFIED="1743149455454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
