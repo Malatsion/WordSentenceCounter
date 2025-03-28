@@ -17,3 +17,9 @@ def count_words_sentences(file_path):
     sentences = [sentence for sentence in sentences if sentence]  # Видаляємо порожні елементи
 
     return len(words), len(sentences)
+
+if __name__ == "__main__":
+    file_path = input("Введіть шлях до файлу: ")
+    words_count, sentences_count = count_words_sentences(file_path)
+    print(f"Кількість слів: {words_count}")
+    print(f"Кількість речень: {sentences_count}")
