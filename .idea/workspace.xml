@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a84880df-bc39-4cae-930a-cd0e828079c8" name="Changes" comment="Додавання requirements.txt">
+      <change afterPath="$PROJECT_DIR$/.idea/WordSentenceCounter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Malatsion/WordSentenceCounter",
+    "accountId": "973ab0a3-ead2-4e8b-96fb-ee6c15a13b06"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2uw8Wln9dakzz4MY55z8pfDn42X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lowsk\PycharmProjects\WordSentenceCounter" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a84880df-bc39-4cae-930a-cd0e828079c8" name="Changes" comment="" />
+      <created>1743148309346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743148309346</updated>
+      <workItem from="1743148310403" duration="600000" />
+    </task>
+    <task id="LOCAL-00001" summary="Створення репозиторію та додавання .gitignore">
+      <option name="closed" value="true" />
+      <created>1743148349250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743148349250</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Додавання основної функції count_words_sentences">
+      <option name="closed" value="true" />
+      <created>1743148401817</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743148401817</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Додавання if __name__ == &quot;__main__&quot; з введенням файлу">
+      <option name="closed" value="true" />
+      <created>1743148420213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743148420213</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Написання unit-тестів">
+      <option name="closed" value="true" />
+      <created>1743148455306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743148455306</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Налаштування GitHub Actions (.github/workflows/python-ci.yml)">
+      <option name="closed" value="true" />
+      <created>1743148614532</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743148614532</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Додавання requirements.txt">
+      <option name="closed" value="true" />
+      <created>1743148843251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743148843251</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Створення репозиторію та додавання .gitignore" />
+    <MESSAGE value="Додавання основної функції count_words_sentences" />
+    <MESSAGE value="Додавання if __name__ == &quot;__main__&quot; з введенням файлу" />
+    <MESSAGE value="Написання unit-тестів" />
+    <MESSAGE value="Налаштування GitHub Actions (.github/workflows/python-ci.yml)" />
+    <MESSAGE value="Додавання requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Додавання requirements.txt" />
+  </component>
+</project>
